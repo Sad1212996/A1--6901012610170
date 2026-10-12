@@ -1,0 +1,4 @@
+Somchai,17,3.5
+Suda,16,3.8
+Anan,18,3.2
+Malee,15,3.9
